@@ -1,20 +1,25 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div style="text-align:center">
   <h1>
-    Welcome to {{ title }}!
+    {{name}}'s First Angular Project
   </h1>
   <img width="300" alt="Angular Logo" src="../assets/MARMS.png">
 </div>
+<p>The rectangle has a length of {{rectangle.length}} cm, a width of {{rectangle.width}} cm,
+  and an area of {{rectangle.area()}} cm^2.</p>
 <h2>Here are some links I like: </h2>
 <ul>
   <li>
-    <h3><a target="_blank" rel="noopener" href="https://www.reddit.com/r/fountainpens/">The fountain pens subreddit. Fancy pens are fun.</a></h3>
+    <h3>{{itemList[0]}}</h3>
   </li>
   <li>
-    <h3><a target="_blank" rel="noopener" href="https://learn.unity.com/">Unity's learning site. Make you a video game.</a></h3>
+    <h3>{{itemList[1]}}</h3>
   </li>
   <li>
-    <h3><a target="_blank" rel="noopener" href="https://www.launchcode.org/">LaunchCode's website! Because their program is great.</a></h3>
+    <h3>{{itemList[2]}}</h3>
+  </li>
+  <li>
+    <h3>{{itemList[3]}}</h3>
   </li>
 </ul>
 
