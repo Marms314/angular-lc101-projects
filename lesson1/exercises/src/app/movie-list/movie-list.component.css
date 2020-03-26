@@ -1,0 +1,11 @@
+
+.movies h3 {
+    color: #14A76C;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.movies li {
+    color: #747474;
+    font-weight: bold;
+}

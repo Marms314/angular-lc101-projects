@@ -1,9 +1,10 @@
 h3 {
-   color: brown;
+   color: #FFE400;
 }
 
 img {
-
+   max-width: 100%;
+   width: 500px;
 }
 
 .photos {

@@ -1,0 +1,12 @@
+.chores h3 {
+    color: #FF652F;
+    font-weight: bolder;
+    text-decoration: underline;
+    padding-left: 20px;
+}
+
+.chores li {
+    color: #747474;
+    font-weight: bold;
+    font-style: italic;
+}
