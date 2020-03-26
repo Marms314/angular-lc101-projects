@@ -1,13 +1,15 @@
-
-.movies h3 {
-    color: #14A76C;
+.links {
     text-align: center;
+}
+
+
+.links h3 {
+    color: #FFE400;
     font-weight: bolder;
     text-decoration: underline;
 }
 
-.movies li {
+.links a {
     color: #747474;
     font-weight: bold;
-    
 }

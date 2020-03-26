@@ -1,3 +1,15 @@
 .background {
     background-color: #272727;
 }
+
+.col-3 {
+    margin: 20px 40px;
+    border: dotted #b8b8b8 3px;
+    padding: 5px;
+}
+
+hr {
+    border-bottom: solid #b8b8b8 3px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
