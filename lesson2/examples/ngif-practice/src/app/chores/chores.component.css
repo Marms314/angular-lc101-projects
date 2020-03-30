@@ -6,6 +6,11 @@
     color: #3c79b8;
 }
 
+.iceCream {
+    color: magenta;
+    text-align: center;
+}
+
 h3 {
     text-align: center;
 }
@@ -15,4 +20,13 @@ img {
     height: auto;
     display: block;
     margin: auto;
+}
+
+#workHarder {
+    color: rgb(163, 137, 22);
+    text-align: center;
+}
+
+#noAllowance {
+    text-align: center;
 }
